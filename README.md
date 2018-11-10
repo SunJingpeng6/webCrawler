@@ -3,7 +3,7 @@
 
 email： sunjingpeng6@126.com
 
-Baiduwenku.py 爬取百度文库上的文章
+Baiduwenku.py 爬取百度文库上的文章 https://wenku.baidu.com/view/8eee4b73f242336c1eb95ec3
 
 Biqukan.py 爬取《笔趣看》网小说: https://www.biqukan.com/
 
