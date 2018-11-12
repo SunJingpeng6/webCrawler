@@ -12,3 +12,5 @@ Shuaia.py 爬取帅爱网上的图片并保存 http://www.shuaia.net/index.html
 Maoyan.py 爬取猫眼网上的高分电影信息 http://maoyan.com/board/4
 
 Proxy.py 从西刺网爬取可用ip http://www.xicidaili.com
+ 
+Weibo.py 爬取新浪微博上的消息，存为json数据 https://m.weibo.cn/u/2830678474
